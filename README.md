@@ -267,11 +267,11 @@ The dashboard follows a **premium executive-style design approach** focused on c
 
 ### 📊 Financial Planning & P&L
 
-![Financial Planning & P&L](Page%2001%20-%20Financial%20Planning%20%26%20P%26L.png)
+![Financial Planning & P&L](Page%2001%20Financial%20Planning%20%26%20P%26L.png)
 
 ### ☕ Brand & Channel Profitability
 
-![Brand & Channel Profitability](Page%2002%20-%20Brand%20%26%20Channel%20Profitability.png)
+![Brand & Channel Profitability](Page%2002%20Brand%20%26%20Channel%20Profitability.png)
 
 ---
 
